@@ -1,0 +1,4 @@
+Permit ID: 001
+Ramp slope: 1:10
+Ramp width: 30 inches
+Handrails: Only on one side
